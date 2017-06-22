@@ -195,7 +195,8 @@ header .device-container .screen img {
   header .header-content {
     text-align: left;
     padding: 0;
-    height: 100vh;
+    height: 50vh; 
+    /*BINIAM: Changed from 100vh*/
   }
   header .header-content .header-content-inner {
     max-width: none;
